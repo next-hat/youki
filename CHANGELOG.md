@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.4.2](https://github.com/next-hat/youki/compare/v0.4.1...v0.4.2) - 2025-03-10
+
 ## [v0.5.2](https://github.com/youki-dev/youki/compare/v0.5.1...v0.5.2) - 2025-03-04
 ### 💪 Improvements
 - Support feature subcommand by @musaprg in https://github.com/youki-dev/youki/pull/2837
